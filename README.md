@@ -1,3 +1,9 @@
+# Networked Battleship
+
+## Demo
+![Demo](screenshot.png)
+
+## Original readme.txt
 ~~~~~~~~~~~~~~~~~    ----------------------------------     ~~~~~~~~~~~~~~~~~ 
 
           _~                     Battle Ship                           _~
