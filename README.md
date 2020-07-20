@@ -1,12 +1,11 @@
 ~~~~~~~~~~~~~~~~~    ----------------------------------     ~~~~~~~~~~~~~~~~~
-```
+
           _~                     Battle Ship                           _~
     _~ )_)_~               By: Shivam, Jeevan, Luvish            _~ (_(_~
     )_))_))_)     - -o      Date: January 20th 2020              (_((_((_(
     _!__!__!_                    Version: 1.0               \    _!__!__!_
 ~~~ \______t/ ~~~~                                          ~o~~ \t______/ ~~
   ~~~ ~ ~~~~~~ ~~    ----------------------------------         ~~~ ~ ~~~ ~~
-```
 
 ~~~~~~~~~~~~~~~~~~~~~ Battle Ship Program Instructions ~~~~~~~~~~~~~~~~~~~~~~
 - Run the Battleship jar file and choose between single player, creating a
