@@ -13,7 +13,7 @@
   directly to play against the AI and help will teach you how to play. To run
   a multiplayer game first create a server by entering a valid port (1024 to
   9999) and then using the connect to server button join the game. On another
-  computer, located on the same network, click the connect to sever button to
+  computer, located on the same network, click the connect to server button to
   play a two player game of battleship.
 
 - If you choose to run the class files open up the MainUI Class and run it.
@@ -37,7 +37,7 @@
 - ShotRecord.java                      - HelpUI.java
 - MainUI.java
 
-Jar need ship.png and help.txt
+Jar requires ship.png and help.txt
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Bugs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Index out of bound exception thrown. Does not impact the server and client
