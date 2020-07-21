@@ -1,4 +1,7 @@
 # Networked Battleship
+This networked battleship project was a grade 12 final summative assignment built by [Jeevan O](https://github.com/jeevano), [Shivam S](https://github.com/ShivamSood17), and Luvish S. The project was built using Java and focused on the application of object oriented principles.
+The program implements the ServerSocket and Socket classes from the java.net library to establish a  connection between two players located on the same network.
+Communication between the server and client is handled using a separate thread in order to ensure that user can continue to interact with the game interface.
 
 ## Demo
 ![Demo](screenshot.png)
